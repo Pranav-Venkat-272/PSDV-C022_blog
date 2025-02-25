@@ -1,7 +1,3 @@
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-cayman
 
-plugins:
-  - jekyll-remote-theme
-
-theme_mode: dark
 
